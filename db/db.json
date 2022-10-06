@@ -2,33 +2,33 @@
   "expenses": [
     {
       "id": 1,
-      "item": "CIC Insurance",
+      "item": "Fees bal",
       "category": "Education",
-      "cost": "$92"
+      "cost": "9200"
     },
     {
       "id": 2,
       "item": "DTB Savings Acc",
       "category": "Savings",
-      "cost": "$77"
+      "cost": "7000"
     },
     {
       "id": 3,
       "item": "Bale of unga",
       "category": "Food",
-      "cost": "$95"
+      "cost": "1050"
     },
     {
       "id": 4,
-      "item": "Netflix subs",
+      "item": "Netflix",
       "category": "Entertainment",
-      "cost": "$20"
+      "cost": "1500"
     },
     {
       "id": 5,
-      "item": "Britam Insurance",
-      "category": "Medical",
-      "cost": "$35"
+      "item": "Airforce",
+      "category": "Shoes",
+      "cost": "300"
     }
   ]
 }
